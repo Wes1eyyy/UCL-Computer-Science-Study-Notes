@@ -38,7 +38,7 @@ sll  $d, $t, shamt  # $d = $t << shamt (逻辑左移)
 srl  $d, $t, shamt  # $d = $t >> shamt (逻辑右移)
 sra  $d, $t, shamt  # $d = $t >> shamt (算术右移)
 ```
-
+![[R-type.png]]
 ---
 
 ### 🅘 I-Type
@@ -98,7 +98,7 @@ ori $t0, $t0, 0x5678   # $t0 = 0x12345678
 
 
 ---
-
+![[li,la,lw.png]]
 ## ✅ Notes
 
 - All MIPS instructions are 32 bits long.
