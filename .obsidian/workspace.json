@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP0009 Logic/Tableau.md",
+                "file": "COMP0009 Logic/Relation algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tableau"
+              "title": "Relation algebra"
             }
           }
         ]
@@ -168,8 +168,9 @@
   "active": "0b64013591ccbb36",
   "lastOpenFiles": [
     "COMP0009 Logic/Modal Logic.md",
+    "COMP0009 Logic/Relation algebra.md",
+    "COMP0009 Logic/syntax and semantics of propositional and predicate logic File.md",
     "COMP0009 Logic/Tableau.md",
-    "COMP0009 Logic/Week 1 syntax and semantics of propositional and predicate logic File.md",
     "Pasted image 20250513090631.png",
     "README.md",
     "COMP0009 Logic/未命名",
